@@ -1,6 +1,6 @@
 # Movie Streaming Platform
 
-A full stack movie streaming platform built with React, Node.js, and MongoDB. The application allows users to browse and watch movies, manage profiles, and perform admin operations. It features JWT authentication, React Hooks, and Context API for state management.
+A full-stack movie streaming platform built with React, Node.js, and MongoDB. The application allows users to browse and watch movies, manage profiles, and perform admin operations. It features JWT authentication, React Hooks, and Context API for state management.
 
 ---
 
