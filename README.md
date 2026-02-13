@@ -6,9 +6,6 @@ A full-stack movie streaming platform built with React, Node.js, and MongoDB. Th
 
 ## Project Images
 
-
-<br>
-
 <div align="center">
   <h3>Home Page</h3>
   <img src="images/movie1.png" alt="Movie Page" style="max-width: 100%; height: auto;" />
